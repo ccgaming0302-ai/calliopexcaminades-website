@@ -1,6 +1,0 @@
-name = "calliopexcaminades-website"
-compatibility_date = "2026-05-20"
-main = "_worker.js"
-
-[assets]
-directory = "."
